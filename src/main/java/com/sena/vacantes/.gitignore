@@ -1,0 +1,13 @@
+# Archivos compilados de Maven
+target/
+
+# Archivos de configuración del IDE
+.idea/
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos locales con credenciales
+.env
